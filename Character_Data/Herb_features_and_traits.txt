@@ -1,0 +1,10 @@
+Tough Skin:
+Your AC is equal to 12 + DEX modifier + CON modifier
+Bardic Inspiration:
+A team mate can use an extra d10 when I inspire them with a tune
+Call of Nature:
+You learn the druidcraft cantrip.
+Forest Guardian:
+If you spend the entirety of a short rest basking in open sunlight, you count as having eaten all that you need for that day, and, provided you were in an area with abundant fresh water, you also count as having drunk all the water you need for that day. Additionally, when you are not moving, you appear to be the same as a normal tree.
+Talk to Plants:
+You can convey simple messages from plants.

@@ -1,0 +1,4 @@
+Tough Skin
+Your AC is equal to 12 + DEX modifier + CON modifier
+Bardic Inspiration
+A team mate can use an extra d10 when I inspire them with a tune
