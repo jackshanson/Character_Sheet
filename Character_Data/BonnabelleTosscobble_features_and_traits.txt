@@ -1,0 +1,33 @@
+---------------------------TRAITS-----------------------
+Personality:
+Never have a plan, but I'm great at making it up as I go along. Also, the best way to get me to do something is to tell me I can't do it.
+Ideals:
+I'm loyal to my friends, not any ideals. Everyone else can go to hell.
+Languages:
+Common, Halfling
+Proficiencies:
+Ligh Armour, simple weapons, hand crossbows, longswords, rapiers, shortswords, thieves' tools, playing cards, carpenter's tools
+-------------------------ABILITIES----------------------
+Thieves' Cant:
+You understand thieves' cant, a secret mix of dialect, jargon and code allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run. 
+Lucky:
+When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+Brave:
+You have advantage on saving throws against being frightened.
+Halfling Nimbleness:
+You can move through the space of any creature that is of a size larger than yours.
+Naturally Stealthy:
+You can attempt to hide when you are obscured by a creature that is at least one size larger than you.
+Criminal Contact:
+You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+Parkour:
+Climbing is no longer halved. A running jump is now increased by your dex modifier (in feet).
+Bonus Stealth:
+Using thieves tools when in stealth doubles their proficiency.
+---------------------BONUS ACTIONS----------------
+Dash
+Disengage
+Hide
+Disarm Traps
+Open Locks
+Take or Use Object
